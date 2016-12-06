@@ -1,0 +1,18 @@
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5Tests.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5Tests.pdb
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5.exe
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5.pdb
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.pdb
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5Tests.dll
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5Tests.pdb
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5.exe
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Tehtava5.pdb
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.dll
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5Tests\obj\Debug\Tehtava5Tests.pdb

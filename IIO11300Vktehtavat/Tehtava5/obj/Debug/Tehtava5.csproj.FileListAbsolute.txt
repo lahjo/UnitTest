@@ -1,0 +1,22 @@
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Tehtava5.exe.config
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Tehtava5.exe
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Tehtava5.pdb
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\MainWindow.g.cs
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\App.g.cs
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5_MarkupCompile.cache
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5_MarkupCompile.lref
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\MainWindow.baml
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.g.resources
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.Properties.Resources.resources
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.csproj.GenerateResource.Cache
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.exe
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.pdb
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Castle.Core.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\UnitTestGenerator.dll
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Castle.Core.xml
+C:\Users\Joonas\Desktop\IIO11300-master\IIO11300Vktehtavat\Tehtava5\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5\bin\Debug\Tehtava5.exe.config
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.exe
+C:\Users\Joonas\Desktop\New folder\IIO11300Vktehtavat\Tehtava5\obj\Debug\Tehtava5.pdb
